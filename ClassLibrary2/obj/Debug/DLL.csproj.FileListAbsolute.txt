@@ -1,0 +1,6 @@
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\mka\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

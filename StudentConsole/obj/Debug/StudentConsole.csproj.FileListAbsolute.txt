@@ -1,0 +1,10 @@
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\bin\Debug\StudentConsole.exe.config
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\bin\Debug\StudentConsole.exe
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\bin\Debug\StudentConsole.pdb
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\obj\Debug\StudentConsole.csprojAssemblyReference.cache
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\obj\Debug\StudentConsole.csproj.CoreCompileInputs.cache
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\obj\Debug\StudentConsole.exe
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\obj\Debug\StudentConsole.pdb
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\bin\Debug\ClassLibrary2.dll
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\bin\Debug\ClassLibrary2.pdb
+C:\Users\mka\source\repos\ClassLibrary2\StudentConsole\obj\Debug\StudentConsole.csproj.CopyComplete
